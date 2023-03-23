@@ -1,3 +1,8 @@
+#install library
+!pip install CurrencyRates
+!pip install CurrencyConverter
+!pip install forex-python
+
 # import library
 from datetime import datetime
 from datetime import date
